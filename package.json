@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardo99ja/Proshop.git"
+  },
+  "author": "Apodaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardo99ja/Proshop/issues"
+  },
+  "homepage": "https://github.com/eduardo99ja/Proshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
